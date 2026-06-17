@@ -1,9 +1,0 @@
-# 本机 Shadowrocket 沙盒备份（无需进仓库）
-data/
-*.db
-
-# 系统/编辑器
-.DS_Store
-*.swp
-.idea/
-.vscode/
